@@ -103,3 +103,5 @@ if get_result(result):
     print("Awesome! Programming is really fun!")
 else:
     print("Hang in there! It's an acquired taste!")
+
+print("Hello")
